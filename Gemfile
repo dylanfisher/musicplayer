@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'aws-s3', '~> 0.6.3'
+gem 'aws-sdk', '~> 1.60.2'
 
 gem 'rails_12factor', group: :production
 gem 'unicorn'
